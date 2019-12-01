@@ -1,0 +1,14 @@
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.exe.config
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.exe
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\bin\Debug\EFCRUDAPP.pdb
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.dll
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.xml
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csprojAssemblyReference.cache
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.Form1.resources
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.Properties.Resources.resources
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csproj.GenerateResource.cache
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.csproj.CopyComplete
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.exe
+C:\Users\Zaldy\source\repos\EFCRUDAPP\EFCRUDAPP\obj\Debug\EFCRUDAPP.pdb
